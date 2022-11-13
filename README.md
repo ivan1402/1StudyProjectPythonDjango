@@ -1,0 +1,2 @@
+# 1StudyProjectPythonDjango
+Учебный проект
